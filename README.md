@@ -1,6 +1,6 @@
 # lack-session-store-clache
 
-[Clache](https://github.com/html/clache) Session store for [Lack](https://github.com/fukamachi/lack)
+[Clache](https://github.com/html/clache) session store for [Lack](https://github.com/fukamachi/lack)
 
 ## Installation
 
